@@ -172,3 +172,4 @@ cython_debug/
 
 # app specific files
 .admin/
+database/blk_cards_collectibles.db
